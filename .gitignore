@@ -27,3 +27,4 @@
 /upgrade*-verifydata.*.pprof
 /upgrade*-openaccounts.*.pprof
 /website/html/
+config.bat
